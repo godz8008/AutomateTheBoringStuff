@@ -23,4 +23,5 @@ def backupToZip(folder):
     # TODO: Walk the entire folder tree and compress the files in each folder.
     print('Done')
 
+
 # backupToZip('./snaps')
